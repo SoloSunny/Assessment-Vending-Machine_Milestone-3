@@ -1,0 +1,4 @@
+2022-03-24T02:02:38.602446300 : Item Coke Purchased.
+2022-03-24T02:05:47.031165100 : Item Water Purchased.
+2022-03-24T02:06:58.218614300 : Item Twix Purchased.
+2022-03-24T02:06:58.238721700 : Item Coke Purchased.
